@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+automate_delivery.ps1
+fill_docx_real.py
+real_execution.png
+
